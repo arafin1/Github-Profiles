@@ -1,5 +1,5 @@
 # Github-Profiles
-Clone This Repo 
-Run `npm install`
-Start Server `Webpack-dev-server`
-See result `localhost:8080/app`
+1.Clone This Repo 
+2.Run `npm install`
+3.Start Server `Webpack-dev-server`
+4.See result `localhost:8080/app`
