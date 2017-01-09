@@ -5,4 +5,4 @@
 
 3.Start Server `Webpack-dev-server`
 
-4.See result `localhost:8080/app`
+4.See Result `localhost:8080/app`
